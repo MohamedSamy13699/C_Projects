@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1662017189 source:d:\nti_c\project\school_project\schoo.c
+	<stdio.h>
+	<stdlib.h>
+	"implement.h"
+
+1662014266 d:\nti_c\project\school_project\implement.h
+	<stdbool.h>
+
+1662017159 source:d:\nti_c\project\school_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"implement.h"
+
+1661501294 d:\nti_c\project\school_project\schoo.c
+	<stdio.h>
+	<stdlib.h>
+	"implement.h"
+
+1662017159 source:f:\cources\nti\nti_c\project\school_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"implement.h"
+
+1662014266 f:\cources\nti\nti_c\project\school_project\implement.h
+	<stdbool.h>
+
+1662017189 source:f:\cources\nti\nti_c\project\school_project\schoo.c
+	<stdio.h>
+	<stdlib.h>
+	"implement.h"
+
+1662013559 source:f:\cources\nti\nti_c\project\school management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"implement.h"
+
+1662010666 f:\cources\nti\nti_c\project\school management system\implement.h
+	<stdbool.h>
+
